@@ -1,13 +1,10 @@
-package com.embarkx.firstjobapp.job.impl;
+package com.project.jobapp.job.impl;
 
-import com.embarkx.firstjobapp.job.Job;
-import com.embarkx.firstjobapp.job.JobRepository;
-import com.embarkx.firstjobapp.job.JobService;
-import org.springframework.beans.factory.annotation.Autowired;
+import com.project.jobapp.job.JobService;
+import com.project.jobapp.job.Job;
+import com.project.jobapp.job.JobRepository;
 import org.springframework.stereotype.Service;
 
-import java.util.ArrayList;
-import java.util.Iterator;
 import java.util.List;
 import java.util.Optional;
 

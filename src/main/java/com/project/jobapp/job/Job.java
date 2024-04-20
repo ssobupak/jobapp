@@ -1,4 +1,4 @@
-package com.embarkx.firstjobapp.job;
+package com.project.jobapp.job;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

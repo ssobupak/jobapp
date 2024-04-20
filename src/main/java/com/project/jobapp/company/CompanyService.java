@@ -1,4 +1,4 @@
-package com.embarkx.firstjobapp.company;
+package com.project.jobapp.company;
 
 import java.util.List;
 

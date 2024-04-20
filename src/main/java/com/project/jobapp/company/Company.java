@@ -1,6 +1,6 @@
-package com.embarkx.firstjobapp.company;
+package com.project.jobapp.company;
 
-import com.embarkx.firstjobapp.job.Job;
+import com.project.jobapp.job.Job;
 import jakarta.persistence.*;
 
 import java.util.List;

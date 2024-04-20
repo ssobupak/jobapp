@@ -1,6 +1,6 @@
-package com.embarkx.firstjobapp.company;
+package com.project.jobapp.company;
 
-import com.embarkx.firstjobapp.company.impl.CompanyServiceImpl;
+import com.project.jobapp.company.impl.CompanyServiceImpl;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

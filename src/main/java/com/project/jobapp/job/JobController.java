@@ -1,4 +1,4 @@
-package com.embarkx.firstjobapp.job;
+package com.project.jobapp.job;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

@@ -1,4 +1,4 @@
-package com.embarkx.firstjobapp.company;
+package com.project.jobapp.company;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

@@ -1,4 +1,4 @@
-package com.embarkx.firstjobapp.job;
+package com.project.jobapp.job;
 
 import java.util.List;
 

@@ -1,8 +1,8 @@
-package com.embarkx.firstjobapp.company.impl;
+package com.project.jobapp.company.impl;
 
-import com.embarkx.firstjobapp.company.Company;
-import com.embarkx.firstjobapp.company.CompanyRepository;
-import com.embarkx.firstjobapp.company.CompanyService;
+import com.project.jobapp.company.Company;
+import com.project.jobapp.company.CompanyService;
+import com.project.jobapp.company.CompanyRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

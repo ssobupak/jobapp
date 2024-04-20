@@ -1,4 +1,4 @@
-package com.embarkx.firstjobapp;
+package com.project.jobapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
