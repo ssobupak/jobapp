@@ -1,23 +1,19 @@
 # Job Application Platform
 
 ## Overview
-This project is a job application platform developed to practice Spring Boot, Docker, microservices architecture, PostgreSQL, and Kubernetes. It aims to provide a comprehensive environment for managing job listings, applications, and related functionalities.
+Originally developed as a monolithic application, this project is currently undergoing restructuring into a microservices architecture. The migration process involves separating the application's functionalities into individual microservices, each encapsulating a specific business capability. This transition is being conducted in a separate repository to ensure a focused and organized approach to the migration process.
 
 ## Features
-- **Job Service:** Manage job listings, including creation, update, and deletion.
-- **Company Service:** Handle company information, such as company profiles and details.
-- **Reviews Service:** Enable users to submit and view reviews for companies and job experiences.
-- **Microservices Architecture:** Utilize microservices for scalability and maintainability.
-- **Docker Integration:** Containerize application components for easy deployment.
-- **PostgreSQL Database:** Store application data in a PostgreSQL database for reliability and scalability.
-- **Kubernetes Deployment:** Explore Kubernetes for orchestrating and managing containerized applications.
+- **Monolithic Application:** Initially structured as a single application encompassing all functionalities.
+- **Microservices Migration:** Transitioning towards a microservices architecture by separating functionalities into individual services.
+- **Single App Container:** Initially, all services are contained within a single application container.
+- **Docker Integration:** Leveraging Docker for containerization of the monolithic application, paving the way for modular deployment.
+- **PostgreSQL Database:** Continuing to utilize PostgreSQL as the database backend, adapting it to suit the requirements of microservices architecture.
 
 ## Technologies Used
-- **Spring Boot:** A powerful framework for building Java-based applications.
-- **Docker:** Containerization platform for packaging, distributing, and running applications.
-- **Microservices:** Architectural style that structures an application as a collection of loosely coupled services.
-- **PostgreSQL:** An open-source relational database management system.
-- **Kubernetes:** Container orchestration platform for automating deployment, scaling, and management of containerized applications.
+- **Spring Boot:** Utilizing Spring Boot for building microservices and facilitating the migration process.
+- **Docker:** Containerization platform facilitating the packaging and distribution of microservices.
+- **PostgreSQL:** Continuously utilized as the database backend, now adapted to suit microservices requirements.
 
 ## Contributing
 Contributions are welcome! Feel free to open issues or pull requests.
