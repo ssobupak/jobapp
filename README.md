@@ -5,8 +5,7 @@ Originally developed as a monolithic application, this project is currently unde
 
 ## Features
 - **Monolithic Application:** Initially structured as a single application encompassing all functionalities.
-- **Microservices Migration:** Transitioning towards a microservices architecture by separating functionalities into individual services.
-- **Single App Container:** Initially, all services are contained within a single application container.
+- **Spring Boot:** A powerful framework for building Java-based applications.
 - **Docker Integration:** Containerize application components for easy deployment.
 - **PostgreSQL Database:** Store application data in a PostgreSQL database for reliability and scalability.
 
